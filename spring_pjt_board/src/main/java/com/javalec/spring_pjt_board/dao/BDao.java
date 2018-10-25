@@ -6,6 +6,7 @@ public class BDao {
 
 	public BDto contentView(String bid) {
 		// TODO Auto-generated method stub
+	//어려버라!
 		return null;
 	}
 
